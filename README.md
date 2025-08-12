@@ -24,7 +24,7 @@
 
 ### 2.1. C#
 
-### 2.2. Java
+### 2.2. Java/Scala/Spark
 
 ### 2.3. SpringBoot
 
@@ -51,6 +51,23 @@
 ## 6. Data Engineer
 
 ## 7. Udemy
+
+## 8. Artificial Intelligence (AI)
+
+### 8.1. Azure OpenAI, OpenAI nuget package, Microsoft.Extensions.AI
+
+
+### 8.2. AWS Bedrock
+
+
+### 8.3. Google Cloud Services (Gemini)
+
+
+### 8.4.
+
+
+### 8.5.
+
 
 
 
